@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca31288-ce98-4979-a6dd-3206d8649913" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/icons/angular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/cloudpracquest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/cpp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/rest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/solutionsarchquest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tenmo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minecraft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/Kotlin.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +51,9 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,7 +69,13 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Projects/Website/developer-portfolio/assets/icons&quot;
+    &quot;last_opened_file_path&quot;: &quot;F:/Projects/Website/developer-portfolio/assets/icons&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -64,9 +84,18 @@
       <recent name="F:\Projects\Website\developer-portfolio\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Website\developer-portfolio" />
       <recent name="F:\Projects\Website\developer-portfolio\assets\images" />
       <recent name="F:\Projects\Website\developer-portfolio\assets\headshot.jpg" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,7 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722562697641</updated>
+      <workItem from="1726062901496" duration="1604000" />
+      <workItem from="1726064532162" duration="211000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
